@@ -54,6 +54,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 (26 Jun 2023) [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)
 
+(31 May 2023) [Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA](https://arxiv.org/abs/2305.19664)
+
 ### Related Works
 
 (4 Jun 2024) [Eliciting the Priors of Large Language Models using Iterated In-Context Learning](https://arxiv.org/abs/2406.01860)

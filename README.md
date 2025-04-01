@@ -10,6 +10,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 ### Benchmark & Dataset
 
+(17 Feb 2025) [LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2502.12359)
+
 (31 Dec 2024) [Probing Visual Language Priors in VLMs](https://www.arxiv.org/abs/2501.00569)
 
 (13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)

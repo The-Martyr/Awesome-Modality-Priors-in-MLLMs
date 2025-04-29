@@ -24,6 +24,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 ### Evaluation
 
+(18 Apr 2025) [The Mirage of Performance Gains: Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/abs/2504.10020v2)
+
 (4 Mar 2025) [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](https://arxiv.org/abs/2503.02199)
 
 (16 Oct 2024) [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)

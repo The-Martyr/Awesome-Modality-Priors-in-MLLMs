@@ -72,7 +72,7 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 (11 August 2023) [Robust visual question answering via polarity enhancement and contrast](https://www.sciencedirect.com/science/article/pii/S0893608024004842)
 
-(1 Dec 2017)[Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://arxiv.org/abs/1712.00377)
+(1 Dec 2017) [Don't Just Assume; Look and Answer: Overcoming Priors for Visual Question Answering](https://arxiv.org/abs/1712.00377)
 
 ### First Paper of Language Priors in Multimodality
 

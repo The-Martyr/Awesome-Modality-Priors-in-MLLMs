@@ -8,32 +8,6 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 ## Paper List (Updating...)
 
-### Benchmark & Dataset
-
-(17 Feb 2025) [LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2502.12359)
-
-(31 Dec 2024) [Probing Visual Language Priors in VLMs](https://www.arxiv.org/abs/2501.00569)
-
-(13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
-
-(23 May 2023) [IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions](https://arxiv.org/abs/2305.14010)
-
-(13 Mar 2023) [Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images](https://arxiv.org/abs/2303.07274)
-
-(30 Oct 2023) [ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense](https://arxiv.org/abs/2310.19301)
-
-### Evaluation
-
-(18 Apr 2025) [The Mirage of Performance Gains: Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/abs/2504.10020v2)
-
-(4 Mar 2025) [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](https://arxiv.org/abs/2503.02199)
-
-(16 Oct 2024) [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)
-
-(30 Sep 2024) [Do Vision-Language Models Really Understand Visual Language?](https://arxiv.org/abs/2410.00193)
-
-(5 Jul 2023) [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477)
-
 ### Mitigation
 
 (16 Apr 2025) [Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models](https://arxiv.org/abs/2504.12137v1) 
@@ -61,6 +35,34 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 (26 Jun 2023) [Mitigating Hallucination in Large Multi-Modal Models via Robust Instruction Tuning](https://arxiv.org/abs/2306.14565)
 
 (31 May 2023) [Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA](https://arxiv.org/abs/2305.19664)
+
+### Benchmark & Dataset
+
+(4 May 2025) [A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2505.01958v1) 
+
+(17 Feb 2025) [LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2502.12359)
+
+(31 Dec 2024) [Probing Visual Language Priors in VLMs](https://www.arxiv.org/abs/2501.00569)
+
+(13 Jun 2024) [VLind-Bench: Measuring Language Priors in Large Vision-Language Models](https://arxiv.org/abs/2406.08702)
+
+(23 May 2023) [IfQA: A Dataset for Open-domain Question Answering under Counterfactual Presuppositions](https://arxiv.org/abs/2305.14010)
+
+(13 Mar 2023) [Breaking Common Sense: WHOOPS! A Vision-and-Language Benchmark of Synthetic and Compositional Images](https://arxiv.org/abs/2303.07274)
+
+(30 Oct 2023) [ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense](https://arxiv.org/abs/2310.19301)
+
+### Evaluation
+
+(18 Apr 2025) [The Mirage of Performance Gains: Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/abs/2504.10020v2)
+
+(4 Mar 2025) [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](https://arxiv.org/abs/2503.02199)
+
+(16 Oct 2024) [The Curse of Multi-Modalities: Evaluating Hallucinations of Large Multimodal Models across Language, Visual, and Audio](https://arxiv.org/abs/2410.12787)
+
+(30 Sep 2024) [Do Vision-Language Models Really Understand Visual Language?](https://arxiv.org/abs/2410.00193)
+
+(5 Jul 2023) [Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks](https://arxiv.org/abs/2307.02477)
 
 ### Related Works
 

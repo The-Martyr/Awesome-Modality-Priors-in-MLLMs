@@ -14,6 +14,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 (17 Oct 2024) [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](https://arxiv.org/abs/2410.13321)
 
+(10 Oct 2024) [Insight Over Sight: Exploring the Vision-Knowledge Conflicts in Multimodal LLMs](https://arxiv.org/abs/2410.08145)
+
 (7 Oct 2024) [Mitigating Modality Prior-Induced Hallucinations in Multimodal Large Language Models via Deciphering Attention Causality](https://arxiv.org/abs/2410.04780)
 
 (31 Jul 2024) [Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs](https://arxiv.org/abs/2407.21771)
@@ -53,6 +55,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 (30 Oct 2023) [ROME: Evaluating Pre-trained Vision-Language Models on Reasoning beyond Visual Common Sense](https://arxiv.org/abs/2310.19301)
 
 ### Evaluation
+
+(4 Mar 2025) [Words or Vision: Do Vision-Language Models Have Blind Faith in Text?](https://arxiv.org/abs/2503.02199)
 
 (18 Apr 2025) [The Mirage of Performance Gains: Why Contrastive Decoding Fails to Address Multimodal Hallucination](https://arxiv.org/abs/2504.10020v2)
 

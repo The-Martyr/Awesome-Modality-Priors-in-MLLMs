@@ -10,6 +10,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 ### Mitigation
 
+(6 Aug 2025) [Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity](https://arxiv.org/abs/2508.04182)
+
 (16 Apr 2025) [Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models](https://arxiv.org/abs/2504.12137v1) 
 
 (17 Oct 2024) [Mitigating Hallucinations in Large Vision-Language Models via Summary-Guided Decoding](https://arxiv.org/abs/2410.13321)

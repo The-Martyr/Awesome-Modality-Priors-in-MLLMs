@@ -10,6 +10,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 
 ### Mitigation
 
+(23 Mar 2025) [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](https://arxiv.org/abs/2503.17928)
+
 (6 Aug 2025) [Hacking Hallucinations of MLLMs with Causal Sufficiency and Necessity](https://arxiv.org/abs/2508.04182)
 
 (16 Apr 2025) [Efficient Contrastive Decoding with Probabilistic Hallucination Detection - Mitigating Hallucinations in Large Vision Language Models](https://arxiv.org/abs/2504.12137v1) 
@@ -41,6 +43,8 @@ Modality priors in multimodal large language models (MLLMs) include visual prior
 (31 May 2023) [Unveiling Cross Modality Bias in Visual Question Answering: A Causal View with Possible Worlds VQA](https://arxiv.org/abs/2305.19664)
 
 ### Benchmark & Dataset
+
+(23 Mar 2025) [Debiasing Multimodal Large Language Models via Noise-Aware Preference Optimization](https://arxiv.org/abs/2503.17928)
 
 (4 May 2025) [A Comprehensive Analysis for Visual Object Hallucination in Large Vision-Language Models](https://arxiv.org/abs/2505.01958v1) 
 
